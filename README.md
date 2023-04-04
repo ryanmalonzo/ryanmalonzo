@@ -7,6 +7,8 @@ Projects I like working on include creating websites as well as automating tasks
 
 [![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,php,postgresql,react,firebase,python&perline=3)](https://skillicons.dev)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusa-ai&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://www.linkedin.com/in/ryan-malonzo/">
   <img alt="LinkedIn Logo" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
