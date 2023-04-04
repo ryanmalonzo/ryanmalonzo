@@ -7,4 +7,4 @@ Projects I like working on include creating websites as well as automating tasks
 
 [![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,php,postgresql,react,firebase,python&perline=3)](https://skillicons.dev)
 
-![Profile Views](https://komarev.com/ghpvc/?username=yusa-ai)
+<a href="https://www.linkedin.com/in/ryan-malonzo/"><img alt="LinkedIn Logo" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> ![Profile Views](https://komarev.com/ghpvc/?username=yusa-ai) 
