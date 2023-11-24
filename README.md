@@ -7,7 +7,7 @@ I also enjoy working on personal projects that use Python to automate tasks.
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,javascript,html,css,python,bots,git,figma&perline=3)](https://skillicons.dev)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusa-ai&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yusa-ai&theme=default)
 
 <a href="https://www.linkedin.com/in/ryan-malonzo/">
   <img alt="LinkedIn Logo" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
