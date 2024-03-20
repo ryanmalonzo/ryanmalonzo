@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-My name is Ryan Malonzo. I am a Computer Science student at ESGI Paris.
+My name is Ryan Malonzo. I am a fourth year Web Engineering student at ESGI Paris.
 
-As a future web developer, I am actively working on enhancing my proficiency in JavaScript libraries like React.
-I also enjoy working on personal projects that use Python to automate tasks.
+As a web developer, I take great pleasure in enhancing my skills using my favorite languages and I always strive to stay up-to-date with the latest trends and new technologies.  
+
+React is my main working tool for front-end work. I also use Python (❤️) for occasional back-end tasks as well as my personal projects.  
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,javascript,html,css,python,bots,git,figma&perline=3)](https://skillicons.dev)
 
