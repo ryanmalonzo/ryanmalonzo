@@ -6,6 +6,10 @@ As a web developer, I take great pleasure in enhancing my skills using my favori
 
 React is my main working tool for front-end work. I also use Python (❤️) for occasional back-end tasks as well as my personal projects.  
 
+Currently learning (last updated 04-30-2024):
+- TypeScript
+- Vue.js
+
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,javascript,python,html,css,figma,git,docker&perline=3)](https://skillicons.dev)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryanmalonzo&theme=default)
