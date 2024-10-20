@@ -1,26 +1,43 @@
-### Hi there 👋
+# Hi there! 👋
 
-My name is Ryan Malonzo. I am a fifth year Web Engineering student at ESGI Paris and a Software Engineer apprentice at PayFit.  
+![Profile Views](https://komarev.com/ghpvc/?username=ryanmalonzo) 
 
-As a web developer, I take great pleasure in enhancing my skills using my favorite languages and I always strive to stay up-to-date with the latest trends and new technologies.  
+## About me
 
-React is my main working tool for front-end work. I also use Python (❤️) for occasional back-end tasks as well as my personal projects.  
+<img src="https://github.com/ryanmalonzo.png" width="250">
 
-Last learned (updated 08-22-2024):
-- TypeScript
-- Vue.js
+My name is Ryan Malonzo. I am a...
 
-Currently learning (last updated 08-22-2024):
+- 5th-year student at ESGI Paris, specialized in Web Engineering
+- Software Engineer apprentice at PayFit France
+
+## Skills
+
+- Frontend development using React
+- Backend development using Node.js and Python
+- DevOps (CI/CD, Microservices, IaC, monitoring, collaboration)
+
+I also favor low-code / no-code development when appropriate. I am a developer at heart but I don't write unnecessary code that introduces technical debt.
+
+## Technologies
+
+[![Skills](https://skillicons.dev/icons?i=python,react,nodejs,javascript,git,docker&theme=light)](https://skillicons.dev)
+
+## Learning
+
+- AWS (currently aiming for the [AWS Certified Developer - Associate](https://aws.amazon.com/certification/certified-developer-associate/) certification, with more in the future)
+- Deno
 - Next.js
 
-One of my recent hobbies is taking care of my [self-hosted homelab](https://ryanmalonzo.fr) by keeping up with the latest trends, adding new apps and features that replace paid cloud services, and offering similar functionality that can be shared with family and friends. Please check it out!
+## Hobbies and interests
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,javascript,python,html,css,figma,git,docker&perline=3)](https://skillicons.dev)
+- Maintaining my homelab and self-hosted apps [here](https://ryanmalonzo.fr) ❤️
+- Learning Japanese 🇯🇵
+- Cryptocurrencies
+- Video games
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryanmalonzo&theme=default)
+## Reach out
 
 <a href="https://www.linkedin.com/in/ryan-malonzo/">
   <img alt="LinkedIn Logo" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-![Profile Views](https://komarev.com/ghpvc/?username=ryanmalonzo) 
