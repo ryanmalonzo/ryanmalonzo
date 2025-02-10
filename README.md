@@ -1,43 +1,44 @@
 # Hi there! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=ryanmalonzo) 
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Software+Engineer;DevOps+Enthusiast)](https://git.io/typing-svg)
 
-## About me
+  ![Profile Views](https://komarev.com/ghpvc/?username=ryanmalonzo)
+  [![GitHub Followers](https://img.shields.io/github/followers/ryanmalonzo?label=Follow&style=social)](https://github.com/ryanmalonzo)
+  
+</div>
 
-<img src="https://github.com/ryanmalonzo.png" width="250">
+## 👨‍💻 About me
 
 My name is Ryan Malonzo. I am a...
 
 - 5th-year student at ESGI Paris, specialized in Web Engineering
 - Software Engineer apprentice at PayFit France
 
-## Skills
+## ⚙️ Skills
+
+Here is what I enjoy and specialize in:
 
 - Frontend development using React
 - Backend development using Node.js and Python
 - DevOps (CI/CD, Microservices, IaC, monitoring, collaboration)
 
-I also favor low-code / no-code development when appropriate. I am a developer at heart but I don't write unnecessary code that introduces technical debt.
-
-## Technologies
-
 [![Skills](https://skillicons.dev/icons?i=python,react,nodejs,javascript,git,docker&theme=light)](https://skillicons.dev)
 
-## Learning
+## 📖 Learning
 
-- AWS (currently aiming for the [AWS Certified Developer - Associate](https://aws.amazon.com/certification/certified-developer-associate/) certification, with more in the future)
-- Deno
+I am currently learning the following technologies:
+
+- AWS (currently aiming for the [AWS Certified Developer - Associate](https://aws.amazon.com/certification/certified-developer-associate/) certification)
+- Ansible
 - Next.js
+- Go
 
-## Hobbies and interests
+## 🎮 Hobbies and interests
 
-- Maintaining my homelab and self-hosted apps [here](https://ryanmalonzo.fr) ❤️
-- Learning Japanese 🇯🇵
-- Cryptocurrencies
-- Video games
+What I love doing during my spare time:
 
-## Reach out
-
-<a href="https://www.linkedin.com/in/ryan-malonzo/">
-  <img alt="LinkedIn Logo" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+- Maintaining my homelab and self-hosted apps [here](https://ryanmalonzo.com) ❤️
+- Learning Japanese 🎌
+- Playing video games 🎮
